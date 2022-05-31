@@ -1,0 +1,8 @@
+.table {
+    margin: auto;
+    padding: 10px;
+}
+
+table thead th {
+    color:white;
+}
