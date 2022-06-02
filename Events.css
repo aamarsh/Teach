@@ -5,3 +5,13 @@ iframe {
     border: 3px solid blue;
     padding: 10px;
 }
+
+h1{
+    display: block;
+    margin: auto;
+    text-align: center;
+  }
+
+body {
+    background-color: #EDF3F6 !important;
+}
