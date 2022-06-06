@@ -2,39 +2,55 @@ body {
 background-color: #EDF3F6 !important;
 }
 
-h1{
+h1 {
+  font-size: 100px !important;
   display: block;
   margin: auto;
-  width: 10%;
+  width: 21%;
+  font-family: 'Acme', sans-serif;
 }
 
 p {
+  font-size: 22px !important;
   display: block;
   margin: auto;
   width: 50%;
   text-align: center;
 }
 
-/* .footer-bar{
-  position: absolute;
-  background-color: grey;
+.carousel {
+border: 4px solid #1A1110;
+border-radius: 5px;
+display: block;
+margin: auto;
+width: 80% !important;
+height: 30% !important;
+}
+
+
+.footer-bar{
+  position: relative;
   bottom: 0px;
   width: 100%;
   height: 70px;
 }
 
-#ig_logo {
+#Trinity-logo {
   position: absolute;
-  width: 2.5%;
-  top: 10px;
-  left: 840px;
+  width: 20%;
+  top: 13px;
+  left: 35%;
 }
 
-#insta-name {
-  position: relative;
-  bottom: 5px;
-  font-size: 25px;
-  font-weight: bold;
-  font-family: fantasy;
-  width: 10%;
-} */
+#X-Footer-png {
+  position: absolute;
+  width: 1.5%;
+  top: 15px;
+  left: 57%;
+}
+
+#Footer-Teach-logo {
+  position: absolute;
+  top: 10px;
+  left: 61%;
+}
