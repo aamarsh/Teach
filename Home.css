@@ -27,30 +27,21 @@ width: 40% !important;
 height: 15% !important;
 }
 
-
-.footer-bar{
-  position: relative;
-  bottom: 0px;
-  width: 100%;
-  height: 70px;
+.b-example-divider {
+  height: 3rem;
+  background-color: rgba(0, 0, 0, .1);
+  border: solid rgba(0, 0, 0, .15);
+  border-width: 1px 0;
+  box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
 }
 
-#Trinity-logo {
-  position: absolute;
-  width: 20%;
-  top: 13px;
-  left: 35%;
-}
-
-#X-Footer-png {
-  position: absolute;
-  width: 1.5%;
-  top: 15px;
-  left: 57%;
+.bi {
+  vertical-align: -.125em;
+  fill: currentColor;
 }
 
 #Footer-Teach-logo {
   position: absolute;
-  top: 10px;
-  left: 61%;
+  width: 10%;
+  left: -20px;
 }
