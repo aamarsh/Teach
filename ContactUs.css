@@ -5,8 +5,8 @@ body {
 .table {
     display: table;
     width: 100%;
-    margin: auto;
-    padding: 10px;
+    /* margin: auto; */
+    /* padding: 10px; */
 }
 
 table thead th {
@@ -18,13 +18,14 @@ h1 {
     font-size: 75px !important;
     font-family: 'Alegreya Sans', sans-serif;
     color: #6da7cc;
+
 }
 
 .card {
-    display: flex;
+    /* display: flex; */
     justify-content: center;
     align-items: center;
-    width: 50%;
+    width: 80%;
     margin-left: auto;
     margin-right: auto;
 }
