@@ -6,7 +6,8 @@ h1 {
   font-size: 100px !important;
   display: block;
   margin: auto;
-  width: 21%;
+  width: 50%;
+  text-align: center;
   font-family: 'Acme', sans-serif;
 }
 
@@ -38,10 +39,4 @@ height: 15% !important;
 .bi {
   vertical-align: -.125em;
   fill: currentColor;
-}
-
-#Footer-Teach-logo {
-  position: absolute;
-  width: 10%;
-  left: -20px;
 }
