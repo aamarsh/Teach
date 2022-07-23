@@ -1,5 +1,6 @@
 body {
 background-color: #EDF3F6 !important;
+padding-bottom: 70px !important;
 }
 
 h1 {
@@ -12,7 +13,7 @@ h1 {
 }
 
 p {
-  font-size: 22px !important;
+  font-size: 21px !important;
   display: block;
   margin: auto;
   width: 50%;
