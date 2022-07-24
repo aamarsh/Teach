@@ -24,4 +24,19 @@ h1 {
 
 body {
     background-color: #EDF3F6 !important;
+    padding-bottom: 100px !important;
+    position: relative;
+    min-height: 100vh;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 60%;
+}
+
+.navbar
+{
+  font-size: larger;
+  background-color: #78797a !important;
 }

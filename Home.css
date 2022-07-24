@@ -18,7 +18,7 @@ p {
   font-size: 21px !important;
   display: block;
   margin: auto;
-  width: 50%;
+  width: 80%;
   text-align: center;
 }
 
@@ -29,12 +29,32 @@ width: 60%;
 }
 
 .carousel {
-border: 4px solid #1A1110;
-border-radius: 5px;
 display: block;
 margin: auto;
-width: 40% !important;
+width: 50% !important;
 height: 15% !important;
+}
+
+.card {
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  color: #6da7cc;
+  background-color: white !important;
+}
+
+.card2 {
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  border-radius: 10px;
+  background-color: #6da7cc !important;
 }
 
 .b-example-divider {
@@ -45,7 +65,23 @@ height: 15% !important;
   box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
 }
 
+.navbar
+{
+  font-size: larger;
+  background-color: #78797a !important;
+}
+
 .bi {
   vertical-align: -.125em;
   fill: currentColor;
+}
+
+img {
+  border-radius: 10px;
+}
+
+.navbar
+{
+  font-size: larger;
+  background-color: #78797a !important;
 }
