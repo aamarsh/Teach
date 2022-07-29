@@ -13,6 +13,7 @@ footer {
     position: absolute;
     bottom: 0;
     width: 60%;
+    text-align: center !important;
 }
 
 .navbar
@@ -20,4 +21,35 @@ footer {
   font-size: larger;
   background-color: #78797a !important;
 }
+
+h1 {
+    text-align: center;
+    font-size: 75px !important;
+    font-family: 'Acme', sans-serif;
+    color: white;
+}
+
+.card {
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px !important;
+  background-color: rgba(109, 167, 204, 0.75) !important;
+  border-color: rgba(109, 167, 204, 0.75) !important;
+  padding: 10px;
+  }
+
+  .card2 {
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.75) !important;
+    border-color: rgba(255, 255, 255, 0.75) !important;
+    padding: 50px;
+  }
 
