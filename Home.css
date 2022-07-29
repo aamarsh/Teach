@@ -7,6 +7,7 @@ min-height: 100vh;
 
 h1 {
   font-size: 100px !important;
+  color: rgb(109, 167, 204) !important;
   display: block;
   margin: auto;
   width: 50%;
@@ -42,8 +43,8 @@ width: 80%;
 margin-left: auto;
 margin-right: auto;
 border-radius: 10px !important;
-color: #6da7cc;
-background-color: white !important;
+background-color: rgba(255, 255, 255, 0.75) !important;
+border-color: rgba(255, 255, 255, 0.75) !important;
 padding: 30px;
 }
 
@@ -55,7 +56,8 @@ padding: 30px;
   margin-right: auto;
   color: white;
   border-radius: 10px;
-  background-color: #6da7cc !important;
+  background-color: rgba(109, 167, 204, 0.75) !important;
+  border-color: rgba(109, 167, 204, 0.75) !important;
 }
 
 .b-example-divider {
