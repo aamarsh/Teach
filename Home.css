@@ -36,20 +36,21 @@ height: 15% !important;
 }
 
 .card {
-  justify-content: center;
-  align-items: center;
-  width: 90%;
-  margin-left: auto;
-  margin-right: auto;
-  border-radius: 10px;
-  color: #6da7cc;
-  background-color: white !important;
+justify-content: center;
+align-items: center;
+width: 80%;
+margin-left: auto;
+margin-right: auto;
+border-radius: 10px !important;
+color: #6da7cc;
+background-color: white !important;
+padding: 30px;
 }
 
 .card2 {
   justify-content: center;
   align-items: center;
-  width: 80%;
+  width: 70%;
   margin-left: auto;
   margin-right: auto;
   color: white;
