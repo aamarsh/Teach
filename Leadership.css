@@ -14,6 +14,7 @@ footer {
     bottom: 0;
     width: 60%;
     text-align: center !important;
+    margin: 0 auto;
 }
 
 .navbar
