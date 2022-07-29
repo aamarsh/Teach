@@ -6,7 +6,7 @@ min-height: 100vh;
 }
 
 h1 {
-  font-size: 100px !important;
+  font-size: 75px !important;
   color: rgb(109, 167, 204) !important;
   display: block;
   margin: auto;
@@ -27,6 +27,7 @@ footer {
 position: absolute;
 bottom: 0;
 width: 60%;
+text-align: center !important;
 }
 
 .carousel {
