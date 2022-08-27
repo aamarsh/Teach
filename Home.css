@@ -15,6 +15,19 @@ h1 {
   font-family: 'Acme', sans-serif;
 }
 
+h4 {
+  font-size: 25px !important;
+  color: rgba(109, 167, 204, 1.0) !important;
+  text-align: center;
+  font-family: 'Acme', sans-serif;
+}
+
+.p1 {
+  font-size: 15px !important;
+  color: #48494a;
+  text-align: center;
+}
+
 p {
   font-size: 21px !important;
   display: block;
@@ -28,14 +41,29 @@ position: absolute;
 bottom: 0;
 width: 60%;
 text-align: center !important;
+margin: 0 auto;
 }
 
 .carousel {
 display: block;
 margin: auto;
-width: 50% !important;
-height: 15% !important;
+width: 100% !important;
+height: 100% !important;
 }
+
+.column {
+  float: left;
+}
+
+.left, .right {
+  width: 25%;
+  text-align: center;
+}
+
+.middle {
+  width: 50%;
+}
+
 
 .card {
 justify-content: center;
@@ -60,6 +88,34 @@ padding-bottom: 30px;
   border-radius: 10px;
   background-color: rgba(109, 167, 204, 0.75) !important;
   border-color: rgba(109, 167, 204, 0.75) !important;
+}
+
+.card3 {
+  justify-content: center !important;
+  align-items: center !important;
+  width: 85%;
+  margin-left: auto;
+  margin-right: auto;
+  color: black;
+  border-radius: 10px;
+  /* background-color: rgba(78, 124, 153, .35) !important;
+  border-color: rgba(78, 124, 153, .35)!important; */
+  margin-top: 20%;
+  height: 70%;
+
+}
+
+.btn {
+  background-color: #48494a !important;
+  color: white !important;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer !important;
+  border-radius: 5px;
+  justify-content: center !important;
+  align-items: center !important;
+  margin: auto !important;
 }
 
 .b-example-divider {
