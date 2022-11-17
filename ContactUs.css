@@ -36,10 +36,9 @@ h1 {
 
 footer {
     position: absolute;
-    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
     width: 60%;
-    text-align: center !important;
-    margin: 0 auto;
 }
 
 .navbar
